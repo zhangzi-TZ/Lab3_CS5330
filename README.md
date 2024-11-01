@@ -10,6 +10,7 @@
 - **torchmetrics**
 
 ## Workflow
+- **Please put the required dataset's image folder and annotations folder and these py file into the same folder**
 - **prepare_dataset.py**
 - **Train_CPU/GPU_600/6000.py**
 - **Evaluation_CPU/GPU_600/6000.py**
